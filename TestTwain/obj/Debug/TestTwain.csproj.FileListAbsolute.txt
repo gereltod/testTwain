@@ -1,0 +1,8 @@
+c:\users\gerel\documents\visual studio 2015\Projects\TestTwain\TestTwain\bin\Debug\TestTwain.exe.config
+c:\users\gerel\documents\visual studio 2015\Projects\TestTwain\TestTwain\bin\Debug\TestTwain.exe
+c:\users\gerel\documents\visual studio 2015\Projects\TestTwain\TestTwain\bin\Debug\TestTwain.pdb
+c:\users\gerel\documents\visual studio 2015\Projects\TestTwain\TestTwain\obj\Debug\TestTwain.csprojResolveAssemblyReference.cache
+c:\users\gerel\documents\visual studio 2015\Projects\TestTwain\TestTwain\obj\Debug\TestTwain.Properties.Resources.resources
+c:\users\gerel\documents\visual studio 2015\Projects\TestTwain\TestTwain\obj\Debug\TestTwain.csproj.GenerateResource.Cache
+c:\users\gerel\documents\visual studio 2015\Projects\TestTwain\TestTwain\obj\Debug\TestTwain.exe
+c:\users\gerel\documents\visual studio 2015\Projects\TestTwain\TestTwain\obj\Debug\TestTwain.pdb
